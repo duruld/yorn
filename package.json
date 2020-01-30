@@ -1,0 +1,26 @@
+{
+  "name": "yoorn",
+  "version": "1.0.2",
+  "description": "Test your project, if it uses Yarn or NPM.",
+  "main": "index.js",
+  "bin": {
+    "yorn": "index.js"
+  },
+  "scripts": {
+    "yorn": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://duruld@github.com/duruld/yorn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duruld/yorn/issues"
+  },
+  "homepage": "https://github.com/duruld/yorn#readme",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
